@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wish-list-test/static/css/main.e6c13ad2.css",
+    "main.js": "/wish-list-test/static/js/main.dde9ac2d.js",
+    "index.html": "/wish-list-test/index.html",
+    "main.e6c13ad2.css.map": "/wish-list-test/static/css/main.e6c13ad2.css.map",
+    "main.dde9ac2d.js.map": "/wish-list-test/static/js/main.dde9ac2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dde9ac2d.js"
+  ]
+}
